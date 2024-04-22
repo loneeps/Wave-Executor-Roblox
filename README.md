@@ -14,3 +14,6 @@
 4) Paste / Search your script.
 
 5) Have fun!😁
+
+ # Licsense
+ By downloading this, you agree to the Apache-2.0 license and that you're not allowed to sell this repository or any code from this repository. For more info see (http://www.apache.org/licenses/).
